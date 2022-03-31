@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.mobility.packer", "com.mobility.packer\com.mobility.packer.csproj", "{FD713659-9DCB-41C9-8309-2482FD03E3B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.mobility.packer.UnitTest", "com.mobility.packer.UnitTest\com.mobility.packer.UnitTest.csproj", "{24FF2497-366C-4B8D-A245-94DDD17B9523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD713659-9DCB-41C9-8309-2482FD03E3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD713659-9DCB-41C9-8309-2482FD03E3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD713659-9DCB-41C9-8309-2482FD03E3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD713659-9DCB-41C9-8309-2482FD03E3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FF2497-366C-4B8D-A245-94DDD17B9523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FF2497-366C-4B8D-A245-94DDD17B9523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FF2497-366C-4B8D-A245-94DDD17B9523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FF2497-366C-4B8D-A245-94DDD17B9523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A884FA9-BBE4-4CD4-90CE-67EE69A97952}
+	EndGlobalSection
+EndGlobal
